@@ -1,1 +1,4 @@
 .env
+__pycache__
+build
+dockerless_fs.egg-info
